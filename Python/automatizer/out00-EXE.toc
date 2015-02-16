@@ -1,0 +1,9 @@
+('/home/lol/Documents/Diogo/DiogoProgramacao/build/automatizer/automatizer',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1421795022)
